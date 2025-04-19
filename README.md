@@ -4,6 +4,11 @@
 
 ---
 
+## 👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=xenondevv&color=brightgreen)
+
+---
+
 ## 🛠️ Tech Stack  
 `JavaScript` `React` `Dart` `C++` `Java` `Python`
 
@@ -17,9 +22,6 @@
 
 ## 🗣️ Most Used Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xenondevv&layout=compact&theme=github_dark)
-
-## 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=xenondevv&color=brightgreen)
 
 ---
 
