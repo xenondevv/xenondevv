@@ -12,6 +12,12 @@
 ## 📊 GitHub Stats  
 ![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xenondevv&show_icons=true&theme=github_dark&hide=issues)
 
+## 📅 GitHub Contribution Streak  
+![Devansh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xenondevv&theme=github-dark)
+
+## 🗣️ Most Used Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xenondevv&layout=compact&theme=github_dark)
+
 ---
 
 ## 🌐 Connect with Me  
