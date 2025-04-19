@@ -10,7 +10,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devanshdevsingh&show_icons=true&theme=github_dark&hide=issues)
+![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xenondevv&show_icons=true&theme=github_dark&hide=issues)
 
 ---
 
