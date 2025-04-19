@@ -18,6 +18,9 @@
 ## 🗣️ Most Used Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xenondevv&layout=compact&theme=github_dark)
 
+## 👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=xenondevv&color=brightgreen)
+
 ---
 
 ## 🌐 Connect with Me  
