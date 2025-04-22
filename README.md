@@ -20,7 +20,7 @@
 ---
 
 ## 📅 GitHub Contribution Streak  
-![Devansh's GitHub Streak](https://streak-stats.demolab.com?user=xenondevv&theme=github-dark)
+<img src="https://streak-stats.demolab.com/?user=xenondevv&theme=github-dark" alt="GitHub Streak" />
 
 ---
 
